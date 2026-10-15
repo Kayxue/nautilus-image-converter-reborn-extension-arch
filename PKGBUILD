@@ -22,6 +22,7 @@ makedepends=(
 optdepends=(
   'nautilus-image-converter-reborn: companion CLI/GUI application to perform resize and rotate actions'
 )
+install="$pkgname.install"
 source=("$pkgname-$pkgver.tar.gz::$url/archive/refs/tags/v$pkgver.tar.gz")
 sha256sums=('28dbdbc7944731a1f945c144109c42efa788208d1076c206478a2273be95042e')
 
