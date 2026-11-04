@@ -1,7 +1,7 @@
 # Maintainer: Kay <s0990006@gmail.com>
 
 pkgname=nautilus-image-converter-reborn-extension
-pkgver=0.1.0
+pkgver=0.2.0
 pkgrel=1
 pkgdesc="Modern Nautilus 43+ context menu extension to resize, rotate, and convert images"
 arch=('x86_64' 'aarch64')
